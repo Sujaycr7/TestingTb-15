@@ -17,6 +17,10 @@ public class DemoGiT
 	{
 		System.out.println("Hello Sudam");
 	}
+	public void m3()
+	{
+		System.out.println("Hello Rahul")
+	}
 	
 public static void main(String[] args)
 {
