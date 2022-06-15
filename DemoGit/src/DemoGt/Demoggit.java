@@ -6,4 +6,10 @@ public void m1()
 {
 	System.out.println("Amol");
 }
+
+
+public void m2()
+{
+	System.out.println("aaaa");
+}
 }
