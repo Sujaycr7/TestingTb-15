@@ -12,4 +12,8 @@ public void m2()
 {
 	System.out.println("aaaa");
 }
+public void name()
+{
+System.out.println("Abcd");	
+}
 }
