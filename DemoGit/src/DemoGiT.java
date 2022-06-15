@@ -13,7 +13,10 @@ public class DemoGiT
 		System.out.println("Hello Vaibhav");
 	}
 	
-	
+	public void m3()
+	{
+		System.out.println("Hello Sudam");
+	}
 	
 public static void main(String[] args)
 {
