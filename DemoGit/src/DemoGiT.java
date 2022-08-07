@@ -8,19 +8,7 @@ public class DemoGiT
 		System.out.println("Hello Amol");
 	}
 	
-	public void m2()
-	{
-		System.out.println("Hello Vaibhav");
-	}
 	
-	public void m3()
-	{
-		System.out.println("Hello Sudam");
-	}
-	public void m4()
-	{
-		System.out.println("Hello Rahul");
-	}
 	
 public static void main(String[] args)
 {
